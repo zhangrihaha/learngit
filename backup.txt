@@ -1,6 +1,0 @@
-it is txt file test
-test break line
-write something 
-today learn git
-
-asdaaaaa
