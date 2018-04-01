@@ -5,4 +5,6 @@ today learn git
 
 asdaaaaiiillla
 
-Creating a new branch is quick  & simple
+Creating a new branch is quick  & simplea
+
+add merge
